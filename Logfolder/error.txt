@@ -1,0 +1,15 @@
+[2024-01-15 08:23:45] ERROR: Database connection timeout after 30 seconds
+[2024-01-15 08:24:12] WARNING: Memory usage at 87% capacity
+[2024-01-15 08:25:33] ERROR: Failed to load configuration file: /etc/app/config.ini
+[2024-01-15 08:26:01] CRITICAL: Disk space critically low: 2% remaining
+[2024-01-15 08:27:19] ERROR: Authentication failed for user admin@example.com
+[2024-01-15 08:28:45] WARNING: API response time exceeded threshold (2500ms)
+[2024-01-15 08:29:56] ERROR: File not found: /var/log/application.log
+[2024-01-15 08:30:22] CRITICAL: Service crashed - attempting restart
+[2024-01-15 08:31:08] ERROR: Invalid JSON in request body
+[2024-01-15 08:32:14] WARNING: Deprecated function call detected: mysql_connect()
+[2024-01-15 08:33:41] ERROR: Network interface eth0 is down
+[2024-01-15 08:34:53] CRITICAL: SSL certificate expired on 2024-01-14
+[2024-01-15 08:35:27] ERROR: Permission denied: user does not have write access to /tmp
+[2024-01-15 08:36:19] WARNING: Cache hit rate below 50%
+[2024-01-15 08:37:42] ERROR: SQL query execution timeout: SELECT * FROM large_table
